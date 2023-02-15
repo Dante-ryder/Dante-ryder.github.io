@@ -1,1 +1,8 @@
-# Dante-ryder.github.io
+Team members:
+  1. YUVARAJ MUNEESHWARAN C 20MER162 (LEAD)<br>
+  2. HARISHKANNAN R 20MER046<br>
+  3. MATHINRAJ R 20EER061<br>
+  4. HARIHARAN V R 20AUR007
+  
+Github repository link: 
+
