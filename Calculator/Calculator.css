@@ -1,0 +1,109 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+#screen {
+    border: 2px solid;
+    width: 360px;
+    margin-left: 435px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: right;
+    height: 40px;
+}
+
+#dialpad {
+    color: #d9d9d9;
+}
+
+#clear {
+    border: none;
+    width: 200px;
+    padding: 20px;
+    margin-left: 438px;
+    font-size: 30px;
+}
+
+button {
+    background-color: #b3b3b3;
+}
+
+.n:hover {
+    background-color: #d8d9db;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+    column-gap: 0;
+}
+
+#backspace {
+    border: none;
+    width: 100px;
+    padding: 20px;
+    border-left: 1px solid;
+    font-size: 30px;
+}
+
+.operator {
+    border: none;
+    color: white;
+    font-weight: normal;
+    width: 100px;
+    padding: 20px;
+    border-left: 1px solid black;
+    font-size: 30px;
+    background-color: #df974c;
+    border-top: 1px solid black;
+}
+
+.operator:hover {
+    background-color: #e8b681;
+}
+
+.n1 {
+    border: none;
+    width: 100px;
+    padding: 20px;
+    margin-left: 438px;
+}
+
+.n {
+    border: none;
+    font-size: 30px;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    width: 100px;
+    padding: 20px;
+}
+
+.zero {
+    border: none;
+    margin-left: 438px;
+    width: 300px;
+    font-size: 30px;
+    padding: 20px;
+    border-right: 1px solid;
+    border-top: 1px solid;
+}
+
+.operator:active {
+    background-color: #1aff1a;
+}
+
+.n:active {
+    background-color: #1aff1a;
+}
