@@ -12,6 +12,10 @@ body{
     padding: 10px;
     height: 150px;
  }
+ td{
+   padding-left: 40px;
+   padding-bottom: 30px;
+ }
 
  .my-page-body {
     grid-area: main-body;
@@ -138,18 +142,13 @@ span{
     color: #fff;
  }
 
+.list{
+   padding-left: 300px;
+}
 ul{
    list-style: none;
 }
-#cl{
-   padding-left: 335px;
-}
-#vis {
-   padding-left: 310px;
-}
-#hum {
-   padding-left: 315px;
-}
-#ws {
-   padding-left: 290px;
+.time{
+   font-weight: normal;
+   font-size: large;
 }
