@@ -101,9 +101,9 @@ button {
 }
 
 .operator:active {
-    background-color: #1aff1a;
+    background-color: #b3b3b3;
 }
 
 .n:active {
-    background-color: #1aff1a;
+    background-color: #b3b3b3;
 }
