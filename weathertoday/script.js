@@ -1,4 +1,4 @@
-let API_KEY ="6735299091204b37b87103943230802";
+let API_KEY ="59f69c1080cd42f2ae561628231603";
 
 getWeatherData=(city) =>{
     //const city= document.getElementById("city-input").value;
